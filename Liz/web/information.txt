@@ -1,0 +1,13 @@
+1. Capturing User Input
+
+//word length
+print("You typed", len(word_tokenize(s)), "words.")
+You typed 8 words. 
+
+//spaced character output
+variable name = variable
+for char  in variable name:
+print(char, end =' ')
+
+//finding vowels
+
